@@ -1,0 +1,722 @@
+[
+  {
+    "matrix": 100,
+    "block": 1,
+    "mode": 0,
+    "time": 0.02704
+  },
+  {
+    "matrix": 100,
+    "block": 1,
+    "mode": 1,
+    "time": 0.013234
+  },
+  {
+    "matrix": 100,
+    "block": 1,
+    "mode": 2,
+    "time": 0.292677
+  },
+  {
+    "matrix": 100,
+    "block": 10,
+    "mode": 0,
+    "time": 0.020363
+  },
+  {
+    "matrix": 100,
+    "block": 10,
+    "mode": 1,
+    "time": 0.009843
+  },
+  {
+    "matrix": 100,
+    "block": 10,
+    "mode": 2,
+    "time": 0.014317
+  },
+  {
+    "matrix": 100,
+    "block": 20,
+    "mode": 0,
+    "time": 0.016007
+  },
+  {
+    "matrix": 100,
+    "block": 20,
+    "mode": 1,
+    "time": 0.009236
+  },
+  {
+    "matrix": 100,
+    "block": 20,
+    "mode": 2,
+    "time": 0.021311
+  },
+  {
+    "matrix": 100,
+    "block": 50,
+    "mode": 0,
+    "time": 0.02001
+  },
+  {
+    "matrix": 100,
+    "block": 50,
+    "mode": 1,
+    "time": 0.011245
+  },
+  {
+    "matrix": 100,
+    "block": 50,
+    "mode": 2,
+    "time": 0.011246
+  },
+  {
+    "matrix": 100,
+    "block": 100,
+    "mode": 0,
+    "time": 0.015002
+  },
+  {
+    "matrix": 100,
+    "block": 100,
+    "mode": 1,
+    "time": 0.016532
+  },
+  {
+    "matrix": 100,
+    "block": 100,
+    "mode": 2,
+    "time": 0.016338
+  },
+  {
+    "matrix": 200,
+    "block": 1,
+    "mode": 0,
+    "time": 0.210905
+  },
+  {
+    "matrix": 200,
+    "block": 1,
+    "mode": 1,
+    "time": 0.119176
+  },
+  {
+    "matrix": 200,
+    "block": 1,
+    "mode": 2,
+    "time": 0.450849
+  },
+  {
+    "matrix": 200,
+    "block": 10,
+    "mode": 0,
+    "time": 0.302439
+  },
+  {
+    "matrix": 200,
+    "block": 10,
+    "mode": 1,
+    "time": 0.167792
+  },
+  {
+    "matrix": 200,
+    "block": 10,
+    "mode": 2,
+    "time": 0.233129
+  },
+  {
+    "matrix": 200,
+    "block": 20,
+    "mode": 0,
+    "time": 0.236931
+  },
+  {
+    "matrix": 200,
+    "block": 20,
+    "mode": 1,
+    "time": 0.095423
+  },
+  {
+    "matrix": 200,
+    "block": 20,
+    "mode": 2,
+    "time": 0.192164
+  },
+  {
+    "matrix": 200,
+    "block": 50,
+    "mode": 0,
+    "time": 0.253353
+  },
+  {
+    "matrix": 200,
+    "block": 50,
+    "mode": 1,
+    "time": 0.104852
+  },
+  {
+    "matrix": 200,
+    "block": 50,
+    "mode": 2,
+    "time": 0.167705
+  },
+  {
+    "matrix": 200,
+    "block": 100,
+    "mode": 0,
+    "time": 0.390802
+  },
+  {
+    "matrix": 200,
+    "block": 100,
+    "mode": 1,
+    "time": 0.19211
+  },
+  {
+    "matrix": 200,
+    "block": 100,
+    "mode": 2,
+    "time": 0.169224
+  },
+  {
+    "matrix": 300,
+    "block": 1,
+    "mode": 0,
+    "time": 0.80233
+  },
+  {
+    "matrix": 300,
+    "block": 1,
+    "mode": 1,
+    "time": 0.409397
+  },
+  {
+    "matrix": 300,
+    "block": 1,
+    "mode": 2,
+    "time": 1.147708
+  },
+  {
+    "matrix": 300,
+    "block": 10,
+    "mode": 0,
+    "time": 0.514887
+  },
+  {
+    "matrix": 300,
+    "block": 10,
+    "mode": 1,
+    "time": 0.277846
+  },
+  {
+    "matrix": 300,
+    "block": 10,
+    "mode": 2,
+    "time": 0.565903
+  },
+  {
+    "matrix": 300,
+    "block": 20,
+    "mode": 0,
+    "time": 0.515723
+  },
+  {
+    "matrix": 300,
+    "block": 20,
+    "mode": 1,
+    "time": 0.269664
+  },
+  {
+    "matrix": 300,
+    "block": 20,
+    "mode": 2,
+    "time": 0.322352
+  },
+  {
+    "matrix": 300,
+    "block": 50,
+    "mode": 0,
+    "time": 0.473512
+  },
+  {
+    "matrix": 300,
+    "block": 50,
+    "mode": 1,
+    "time": 0.362751
+  },
+  {
+    "matrix": 300,
+    "block": 50,
+    "mode": 2,
+    "time": 0.299935
+  },
+  {
+    "matrix": 300,
+    "block": 100,
+    "mode": 0,
+    "time": 0.451458
+  },
+  {
+    "matrix": 300,
+    "block": 100,
+    "mode": 1,
+    "time": 0.260151
+  },
+  {
+    "matrix": 300,
+    "block": 100,
+    "mode": 2,
+    "time": 0.280827
+  },
+  {
+    "matrix": 500,
+    "block": 1,
+    "mode": 0,
+    "time": 2.993164
+  },
+  {
+    "matrix": 500,
+    "block": 1,
+    "mode": 1,
+    "time": 1.599221
+  },
+  {
+    "matrix": 500,
+    "block": 1,
+    "mode": 2,
+    "time": 3.092113
+  },
+  {
+    "matrix": 500,
+    "block": 10,
+    "mode": 0,
+    "time": 2.576327
+  },
+  {
+    "matrix": 500,
+    "block": 10,
+    "mode": 1,
+    "time": 1.273604
+  },
+  {
+    "matrix": 500,
+    "block": 10,
+    "mode": 2,
+    "time": 1.401987
+  },
+  {
+    "matrix": 500,
+    "block": 20,
+    "mode": 0,
+    "time": 2.291637
+  },
+  {
+    "matrix": 500,
+    "block": 20,
+    "mode": 1,
+    "time": 1.23428
+  },
+  {
+    "matrix": 500,
+    "block": 20,
+    "mode": 2,
+    "time": 1.31527
+  },
+  {
+    "matrix": 500,
+    "block": 50,
+    "mode": 0,
+    "time": 2.192137
+  },
+  {
+    "matrix": 500,
+    "block": 50,
+    "mode": 1,
+    "time": 1.217952
+  },
+  {
+    "matrix": 500,
+    "block": 50,
+    "mode": 2,
+    "time": 1.252669
+  },
+  {
+    "matrix": 500,
+    "block": 100,
+    "mode": 0,
+    "time": 2.228221
+  },
+  {
+    "matrix": 500,
+    "block": 100,
+    "mode": 1,
+    "time": 1.430502
+  },
+  {
+    "matrix": 500,
+    "block": 100,
+    "mode": 2,
+    "time": 1.447874
+  },
+  {
+    "matrix": 800,
+    "block": 1,
+    "mode": 0,
+    "time": 12.462185
+  },
+  {
+    "matrix": 800,
+    "block": 1,
+    "mode": 1,
+    "time": 6.779842
+  },
+  {
+    "matrix": 800,
+    "block": 1,
+    "mode": 2,
+    "time": 9.374921
+  },
+  {
+    "matrix": 800,
+    "block": 10,
+    "mode": 0,
+    "time": 9.711032
+  },
+  {
+    "matrix": 800,
+    "block": 10,
+    "mode": 1,
+    "time": 5.090105
+  },
+  {
+    "matrix": 800,
+    "block": 10,
+    "mode": 2,
+    "time": 5.381272
+  },
+  {
+    "matrix": 800,
+    "block": 20,
+    "mode": 0,
+    "time": 8.12664
+  },
+  {
+    "matrix": 800,
+    "block": 20,
+    "mode": 1,
+    "time": 3.816127
+  },
+  {
+    "matrix": 800,
+    "block": 20,
+    "mode": 2,
+    "time": 3.884059
+  },
+  {
+    "matrix": 800,
+    "block": 50,
+    "mode": 0,
+    "time": 7.647388
+  },
+  {
+    "matrix": 800,
+    "block": 50,
+    "mode": 1,
+    "time": 3.983007
+  },
+  {
+    "matrix": 800,
+    "block": 50,
+    "mode": 2,
+    "time": 3.770754
+  },
+  {
+    "matrix": 800,
+    "block": 100,
+    "mode": 0,
+    "time": 8.078686
+  },
+  {
+    "matrix": 800,
+    "block": 100,
+    "mode": 1,
+    "time": 3.768344
+  },
+  {
+    "matrix": 800,
+    "block": 100,
+    "mode": 2,
+    "time": 3.911802
+  },
+  {
+    "matrix": 1000,
+    "block": 1,
+    "mode": 0,
+    "time": 21.975813
+  },
+  {
+    "matrix": 1000,
+    "block": 1,
+    "mode": 1,
+    "time": 12.204221
+  },
+  {
+    "matrix": 1000,
+    "block": 1,
+    "mode": 2,
+    "time": 13.317875
+  },
+  {
+    "matrix": 1000,
+    "block": 10,
+    "mode": 0,
+    "time": 16.735805
+  },
+  {
+    "matrix": 1000,
+    "block": 10,
+    "mode": 1,
+    "time": 7.768853
+  },
+  {
+    "matrix": 1000,
+    "block": 10,
+    "mode": 2,
+    "time": 8.023237
+  },
+  {
+    "matrix": 1000,
+    "block": 20,
+    "mode": 0,
+    "time": 15.56218
+  },
+  {
+    "matrix": 1000,
+    "block": 20,
+    "mode": 1,
+    "time": 7.546826
+  },
+  {
+    "matrix": 1000,
+    "block": 20,
+    "mode": 2,
+    "time": 7.847085
+  },
+  {
+    "matrix": 1000,
+    "block": 50,
+    "mode": 0,
+    "time": 15.095563
+  },
+  {
+    "matrix": 1000,
+    "block": 50,
+    "mode": 1,
+    "time": 7.71336
+  },
+  {
+    "matrix": 1000,
+    "block": 50,
+    "mode": 2,
+    "time": 7.531924
+  },
+  {
+    "matrix": 1000,
+    "block": 100,
+    "mode": 0,
+    "time": 15.618375
+  },
+  {
+    "matrix": 1000,
+    "block": 100,
+    "mode": 1,
+    "time": 7.849617
+  },
+  {
+    "matrix": 1000,
+    "block": 100,
+    "mode": 2,
+    "time": 7.937036
+  },
+  {
+    "matrix": 1200,
+    "block": 1,
+    "mode": 0,
+    "time": 37.823962
+  },
+  {
+    "matrix": 1200,
+    "block": 1,
+    "mode": 1,
+    "time": 22.405098
+  },
+  {
+    "matrix": 1200,
+    "block": 1,
+    "mode": 2,
+    "time": 22.875005
+  },
+  {
+    "matrix": 1200,
+    "block": 10,
+    "mode": 0,
+    "time": 28.739031
+  },
+  {
+    "matrix": 1200,
+    "block": 10,
+    "mode": 1,
+    "time": 13.874834
+  },
+  {
+    "matrix": 1200,
+    "block": 10,
+    "mode": 2,
+    "time": 14.23835
+  },
+  {
+    "matrix": 1200,
+    "block": 20,
+    "mode": 0,
+    "time": 27.021463
+  },
+  {
+    "matrix": 1200,
+    "block": 20,
+    "mode": 1,
+    "time": 13.148248
+  },
+  {
+    "matrix": 1200,
+    "block": 20,
+    "mode": 2,
+    "time": 13.578599
+  },
+  {
+    "matrix": 1200,
+    "block": 50,
+    "mode": 0,
+    "time": 26.067438
+  },
+  {
+    "matrix": 1200,
+    "block": 50,
+    "mode": 1,
+    "time": 12.816955
+  },
+  {
+    "matrix": 1200,
+    "block": 50,
+    "mode": 2,
+    "time": 13.287196
+  },
+  {
+    "matrix": 1200,
+    "block": 100,
+    "mode": 0,
+    "time": 27.063289
+  },
+  {
+    "matrix": 1200,
+    "block": 100,
+    "mode": 1,
+    "time": 12.750303
+  },
+  {
+    "matrix": 1200,
+    "block": 100,
+    "mode": 2,
+    "time": 13.106978
+  },
+  {
+    "matrix": 1500,
+    "block": 1,
+    "mode": 0,
+    "time": 83.005819
+  },
+  {
+    "matrix": 1500,
+    "block": 1,
+    "mode": 1,
+    "time": 45.706433
+  },
+  {
+    "matrix": 1500,
+    "block": 1,
+    "mode": 2,
+    "time": 45.092753
+  },
+  {
+    "matrix": 1500,
+    "block": 10,
+    "mode": 0,
+    "time": 56.757745
+  },
+  {
+    "matrix": 1500,
+    "block": 10,
+    "mode": 1,
+    "time": 27.407121
+  },
+  {
+    "matrix": 1500,
+    "block": 10,
+    "mode": 2,
+    "time": 26.76944
+  },
+  {
+    "matrix": 1500,
+    "block": 20,
+    "mode": 0,
+    "time": 52.644567
+  },
+  {
+    "matrix": 1500,
+    "block": 20,
+    "mode": 1,
+    "time": 25.679987
+  },
+  {
+    "matrix": 1500,
+    "block": 20,
+    "mode": 2,
+    "time": 25.117165
+  },
+  {
+    "matrix": 1500,
+    "block": 50,
+    "mode": 0,
+    "time": 51.938935
+  },
+  {
+    "matrix": 1500,
+    "block": 50,
+    "mode": 1,
+    "time": 25.962011
+  },
+  {
+    "matrix": 1500,
+    "block": 50,
+    "mode": 2,
+    "time": 25.866532
+  },
+  {
+    "matrix": 1500,
+    "block": 100,
+    "mode": 0,
+    "time": 55.645839
+  },
+  {
+    "matrix": 1500,
+    "block": 100,
+    "mode": 1,
+    "time": 25.51302
+  },
+  {
+    "matrix": 1500,
+    "block": 100,
+    "mode": 2,
+    "time": 25.42771
+  }
+]
